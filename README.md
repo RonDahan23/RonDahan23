@@ -7,7 +7,7 @@
 - <b>Data Structures and Algorithms Practice </b>
   - /
 - <b>SQL</b>
-  - /
+  - [SQLExplorer](https://github.com/RonDahan23/SQLExplorer.git)
 - <b>C# (.NET Desktop Applications)</b>
   - [test](https://github.com/RonDahan23/4-In-a-Row.git)
 - <b>Python</b>
