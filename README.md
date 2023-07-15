@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b> Java  </b>
+  - /
 - <b>Data Structures and Algorithms Practice </b>
   - /
 - <b>SQL</b>
