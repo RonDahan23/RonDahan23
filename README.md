@@ -9,7 +9,7 @@
 - <b>SQL</b>
   - [SQLExplorer](https://github.com/RonDahan23/SQLExplorer.git)
 - <b>C# (.NET Desktop Applications)</b>
-  - [test](https://github.com/RonDahan23/4-In-a-Row.git)
+  - [The Game - 4-In-Row](https://github.com/RonDahan23/4-In-a-Row.git)
 - <b>Python</b>
 
 
