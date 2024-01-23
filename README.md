@@ -2,15 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Java  </b>
-  - /
+
 - <b>Data Structures and Algorithms Practice </b>
   - [DES algorithm implementation](https://github.com/RonDahan23/DES-Algorithm-Implementation.git)
 - <b>SQL</b>
   - [SQLExplorer](https://github.com/RonDahan23/SQLExplorer.git)
 - <b>C# (.NET Desktop Applications)</b>
   - [The Game - 4-In-Row](https://github.com/RonDahan23/4-In-a-Row.git)
-- <b>Python</b>
+
 
 
 
