@@ -1,8 +1,11 @@
-<h1>Hi, I'm Ron! <br/></h1>
+<h1>Hi, I'm Ron!, Practical Engineer <br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
+- <b>Cyber with Ai </b>
+  -  [Intrusion-detection-system](https://github.com/RonDahan23/Intrusion-detection-system.git)
+- <b>Autonomous </b>
+  - [CNC_Machine_Project](https://github.com/RonDahan23/CNC_Machine_Project.git)
 - <b>Data Structures and Algorithms Practice </b>
   - [DES algorithm implementation](https://github.com/RonDahan23/DES-Algorithm-Implementation.git)
 - <b>SQL</b>
@@ -19,17 +22,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/r-dahan
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
